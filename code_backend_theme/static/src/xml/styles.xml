@@ -22,4 +22,6 @@
             <attribute name="class">o_search_panel_counter ml-2 small</attribute>
         </xpath>
     </t>
+
+
 </templates>
